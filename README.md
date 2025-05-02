@@ -8,9 +8,9 @@
 <br>
 <br>
 <div align="center">
-  <img width="700" src="/images/016.png" alt="Graham Scan algorithm" />
+  <img width="700" src="/images/01.png" alt="Graham Scan algorithm" />
 </div>
 <br>
 <div align="center">
-  <img width="700" src="/images/026.png" alt="Graham Scan algorithm" />
+  <img width="700" src="/images/02.png" alt="Graham Scan algorithm" />
 </div>
